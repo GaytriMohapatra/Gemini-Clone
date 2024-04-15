@@ -54,5 +54,3 @@ Contributions to Gemini Clone are welcome! Here are a few ways you can contribut
 Special thanks to the creators of the Gemini AI model and the developers of the Gemini API for making this project possible.
 
 ---
-
-Feel free to customize the README further to include additional information or sections as needed for your project.
