@@ -33,7 +33,7 @@ npm install
 npm run dev
 ```
 
-5. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to access the Gemini Clone application.
+5. Open your browser and navigate to the local server e.g. [http://localhost:3000](http://localhost:3000) to access the Gemini Clone application.
 
 ## Usage
 
@@ -42,12 +42,9 @@ npm run dev
 3. Wait for the response from the Gemini API.
 4. View the generated response on the screen.
 
-## Contributing
+## Video
 
-Contributions to Gemini Clone are welcome! Here are a few ways you can contribute:
-
-- Report bugs and suggest improvements by opening an issue on the GitHub repository.
-- Submit pull requests with enhancements or fixes to the codebase.
+https://github.com/GaytriMohapatra/Gemini_Clone_/assets/107802389/8d262f34-6fca-4817-abc3-59b02dc01354
 
 ## Acknowledgements
 
