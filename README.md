@@ -42,10 +42,6 @@ npm run dev
 3. Wait for the response from the Gemini API.
 4. View the generated response on the screen.
 
-## Video
-
-https://github.com/GaytriMohapatra/Gemini_Clone_/assets/107802389/8d262f34-6fca-4817-abc3-59b02dc01354
-
 ## Acknowledgements
 
 Special thanks to the creators of the Gemini AI model and the developers of the Gemini API for making this project possible.
